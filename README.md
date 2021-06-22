@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jashandeep Singh</h1>
-<h3 align="center">A passionate ML Enthusiast from India. <img src="https://image.flaticon.com/icons/svg/323/323299.svg" width="14"/> </h3>
+<!-- <h3 align="center">A passionate ML Enthusiast from India. <img src="https://image.flaticon.com/icons/svg/323/323299.svg" width="14"/> </h3> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jashandeep2020" alt="Jashandeep2020" /> </p>
 
-- 🌱 I’m currently learning **Data Science | Machine Learning**
-- 📫 How to reach me: deepjashan2020@gmail.com
+<!-- - 🌱 I’m currently learning **Data Science | Machine Learning**
+- 📫 How to reach me: deepjashan2020@gmail.com -->
 
-**You can find me here also:**  
+<!-- **You can find me here also:**   -->
 <a><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> <br>
 <a href="https://www.linkedin.com/in/jashandeep-singh-mlaspirant/"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/linkedin.png" width="32px" height="32px"></a>   <a href="https://twitter.com/jashan132"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/twitter.png" width="32px" height="32px"></a>
 <a href = "https://www.instagram.com/_jashan.13/"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/instagram.png" width="32px" height="32px"></a>
